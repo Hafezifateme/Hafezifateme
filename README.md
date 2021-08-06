@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, My name is Fateme Hafezianzade
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq0NmGqoylbfr5uD1CjT2KZify6gnfwxayPw&usqp=CAU)
 
-<!--
-**Hafezifateme/Hafezifateme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computational physics student that working in creating physics-informed machine learning techniques to solve problems.
 
-Here are some ideas to get you started:
+Skills: Python, C++, Machine Learning, Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on physics-informed machine learning 
+- 🌱 I’m currently learning pytorch 
+- 💬 Ask me about machine learning, deep learning, python 
+- 📫 How to reach me: [moodle](https://fatemehafezi.gnomio.com/) [LinkedIn](https://www.linkedin.com/in/fateme-hafezianzade-8b3477209/) [gmail](fahafe98@gmail.com) 
+
+
+
+
