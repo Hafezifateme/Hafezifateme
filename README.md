@@ -7,7 +7,7 @@ Skills: Python, C++, Machine Learning, Deep Learning
 
 - 🔭 I’m currently working on physics-informed machine learning  
 - 💬 Ask me about machine learning, deep learning, python 
-- 📫 How to reach me: [moodle](https://fatemehafezi.gnomio.com/) [LinkedIn](https://www.linkedin.com/in/fateme-hafezianzade-8b3477209/) [gmail](fahafe98@gmail.com) 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fateme-hafezianzade-8b3477209/) [gmail](fahafe98@gmail.com) 
 
 
 
